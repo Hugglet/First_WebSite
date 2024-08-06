@@ -1,0 +1,32 @@
+body {
+    background-color: #FF0000;
+}
+
+p, ul {
+	color: white;
+	font-family: Calibri;
+	font-size: 20px;
+}
+h3 {
+	color: white;
+	    font-family: Calibri;
+	    font-size: 20px;
+}
+h1 {
+	color: white;
+	    font-family: Calibri;
+	    font-size: 40px;
+}
+h2 {
+	color: white;
+	    font-family: Calibri;
+	    font-size: 25px;
+}
+.line {
+    border-bottom: 3px solid #FFFFFF;
+}
+title {
+	color: black;
+	font-family: Calibri;
+	font-size: 25px;
+}
